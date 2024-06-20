@@ -1,6 +1,6 @@
 # Hello, I'm David Baruch AKPOVI 👋
 
-![Profile Banner](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?fit=crop&w=1000&q=80)
+![Profile Banner](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?fit=crop&w=200&q=800)
 
 I'm a passionate data scientist with a knack for turning data into actionable insights. With a strong foundation in Python, SQL, Stata, and R, I enjoy diving into data to uncover patterns and tell compelling stories.
 
@@ -16,6 +16,8 @@ I'm a passionate data scientist with a knack for turning data into actionable in
 ## 🌱 Currently Learning
 - Advanced Machine Learning Algorithms
 - Deep Learning with TensorFlow
+- Causal inference
+- Impact evaluation
 
 ## 📈 GitHub Stats
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neriya98&show_icons=true&theme=radical)
