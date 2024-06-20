@@ -1,7 +1,7 @@
 # Hello, I'm David Baruch AKPOVI 👋
 ## You can call me David
 
-![Profile Banner](https://images.unsplash.com/photo-1533555633275-d4f46d602d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGxhbmRzY2FwZXxlbnwwfHx8fDE2Mzg2MDA2MTM&ixlib=rb-1.2.1&q=80&w=1080)
+![Profile Banner](https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGxhbmRzY2FwZXxlbnwwfHx8fDE2Mzg2MDA2MTM&ixlib=rb-1.2.1&q=80&w=1080)
 
 I'm a passionate data scientist with a knack for turning data into actionable insights. With a strong foundation in Python, SQL, Stata, and R, I enjoy diving into data to uncover patterns and tell compelling stories.
 
