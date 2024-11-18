@@ -1,5 +1,5 @@
 # Hello, I'm David Baruch AKPOVI 👋
-![Profile Banner](https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGxhbmRzY2FwZXxlbnwwfHx8fDE2Mzg2MDA2MTM&ixlib=rb-1.2.1&q=80&w=1080)
+![Profile Banner](https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGxhbmRzY2FwZXxlbnwwfHx8fDE2Mzg2MDA2MTM&ixlib=rb-1.2.1&q=80&w=810)
 _____________________
 But, you can call me David. Let's connect and make data magic together! ✨
 
