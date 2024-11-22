@@ -26,6 +26,6 @@ When I'm not wrangling data, you might find me enjoying a good book, experimenti
 - Impact evaluation
 
 ## 📈 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neriya98&show_icons=true&theme=radical)
+
 
 ---
