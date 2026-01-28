@@ -1,32 +1,88 @@
-# Hello, I'm David Baruch AKPOVI 👋
-![Profile Banner](https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGxhbmRzY2FwZXxlbnwwfHx8fDE2Mzg2MDA2MTM&ixlib=rb-1.2.1&q=80&w=810)
-_____________________
-But, you can call me David. Let's connect and make data magic together! ✨
+<!-- profile README — option a (clean) -->
 
-## About Me
-I'm a passionate data scientist with a knack for turning data into actionable insights. With a strong foundation in Python, SQL, Stata, and R, I enjoy diving into data to uncover patterns and tell compelling stories.
+<p align="center">
+  <a href="https://github.com/Neriya98">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=david%20baruch%20akpovi&fontAlign=50&fontAlignY=35&color=0:0ea5e9,50:6366f1,100:22c55e&fontColor=ffffff" alt="header" />
+  </a>
+</p>
 
-By day, I analyze data, build models, and help businesses make data-driven decisions. By night, I explore the latest trends in data science and work on personal projects. I'm always on the lookout for new challenges and opportunities to grow. 
+<p align="center">
+  <b>data scientist</b> • analytics • ml • causal inference • impact evaluation
+</p>
 
-When I'm not wrangling data, you might find me enjoying a good book, experimenting with new recipes in the kitchen, or exploring the outdoors.
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-akpovi-data-scientist/">
+    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://david-akpovi.com/">
+    <img alt="website" src="https://img.shields.io/badge/website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img alt="email" src="https://img.shields.io/badge/email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Skills
-- **Languages**: Python (my top skill), SQL, Stata, R
-- **Tools & Technologies**: Data Analysis, Machine Learning, Statistical Modeling, Data Visualization
-
-## 🔗 Connect with Me
-- [GitHub](https://github.com/david-akpovi)
-- [LinkedIn](https://www.linkedin.com/in/david-akpovi-data-scientist/)
-- [Website](https://david-akpovi.com/)
-
-## 🌱 Currently Learning
-- Advanced Machine Learning Algorithms
-- Deep Learning with TensorFlow
-- Causal inference
-- Impact evaluation
-
-## 📈 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neriya98&show_icons=true&theme=radical)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neriya98&style=flat-square&color=0ea5e9" alt="views" />
+  <img src="https://img.shields.io/github/followers/Neriya98?style=flat-square&color=6366f1" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Neriya98?style=flat-square&color=22c55e" alt="stars" />
+</p>
 
 ---
+
+### focus
+- data products: dashboards, pipelines, experimentation, monitoring
+- modeling: forecasting, classification, segmentation, scoring
+- research-friendly: causal inference, impact evaluation, reproducible workflows
+
+### stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,git,docker,linux,fastapi,flask,githubactions,gcp" />
+</p>
+
+<details>
+  <summary><b>more tools</b></summary>
+
+- analysis: pandas, numpy, scipy, statsmodels
+- ml: scikit-learn, xgboost, lightgbm
+- viz: matplotlib, plotly, power bi (if relevant)
+- data: sql, etl, apis, web scraping (if relevant)
+
+</details>
+
+---
+
+### featured work
+> pin a few repos on github (recommended) + optionally list them here.
+
+| project | what it does | stack |
+|---|---|---|
+| **repo-1** | short description (1 line) | python • sql |
+| **repo-2** | short description (1 line) | ml • api |
+| **repo-3** | short description (1 line) | data viz |
+
+---
+
+### stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Neriya98&show_icons=true&hide_title=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neriya98&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Neriya98&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neriya98&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neriya98&bg_color=00000000&color=94a3b8&line=6366f1&point=22c55e&area=true&hide_border=true" />
+</p>
+
+---
+
+### collaboration
+open to: data science missions, product analytics, ml prototyping, evaluation design  
+best channel: linkedin / email
