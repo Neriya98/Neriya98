@@ -1,13 +1,7 @@
-<!-- profile README — option a (clean) -->
+<!-- profile readme (clean + premium) -->
 
 <p align="center">
-  <a href="https://github.com/Neriya98">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=David%20Baruch%20Akpovi&fontAlign=50&fontAlignY=35&color=0:0ea5e9,50:6366f1,100:22c55e&fontColor=ffffff" alt="header" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Data scientist</b> • Analytics • ML • Causal inference • Impact evaluation
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=david%20baruch%20akpovi&fontAlign=50&fontAlignY=35&desc=data%20scientist%20•%20analytics%20•%20ml%20•%20causal%20inference&descAlign=50&descAlignY=58&color=0:0ea5e9,50:6366f1,100:22c55e&fontColor=ffffff&descColor=ffffff" alt="header" />
 </p>
 
 <p align="center">
@@ -23,66 +17,56 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neriya98&style=flat-square&color=0ea5e9" alt="views" />
-  <img src="https://img.shields.io/github/followers/Neriya98?style=flat-square&color=6366f1" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Neriya98&style=flat-square&color=6366f1" alt="views" />
+  <img src="https://img.shields.io/github/followers/Neriya98?style=flat-square&color=0ea5e9" alt="followers" />
   <img src="https://img.shields.io/github/stars/Neriya98?style=flat-square&color=22c55e" alt="stars" />
 </p>
 
----
+<br/>
 
 ### focus
 - data products: dashboards, pipelines, experimentation, monitoring
 - modeling: forecasting, classification, segmentation, scoring
-- research-friendly: causal inference, impact evaluation, reproducible workflows
+- research workflows: causal inference, impact evaluation, reproducibility
 
 ### stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,git,docker,linux,fastapi,flask,githubactions,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb,git,docker,linux,fastapi,githubactions,gcp" />
 </p>
 
 <details>
-  <summary><b>more tools</b></summary>
+  <summary><b>details</b></summary>
 
-- analysis: pandas, numpy, scipy, statsmodels
-- ml: scikit-learn, xgboost, lightgbm
-- viz: matplotlib, plotly, power bi (if relevant)
-- data: sql, etl, apis, web scraping (if relevant)
+- analysis: pandas, numpy, scipy, statsmodels  
+- ml: scikit-learn, xgboost, lightgbm  
+- viz: matplotlib, plotly  
 
 </details>
 
----
+<br/>
 
 ### featured work
-> pin a few repos on github (recommended) + optionally list them here.
+> pin 3–6 repos sur le profil github (ça fait 80% du “design”).  
+> optionnel: remplir ce tableau.
 
-| project | what it does | stack |
+| project | purpose | stack |
 |---|---|---|
-| **repo-1** | short description (1 line) | python • sql |
-| **repo-2** | short description (1 line) | ml • api |
-| **repo-3** | short description (1 line) | data viz |
+| **repo-1** | one-liner | python • sql |
+| **repo-2** | one-liner | ml • api |
+| **repo-3** | one-liner | data viz |
 
----
+<br/>
 
 ### stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Neriya98&show_icons=true&hide_title=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neriya98&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Neriya98&show_icons=true&hide_title=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neriya98&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Neriya98&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neriya98&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neriya98&bg_color=00000000&color=94a3b8&line=6366f1&point=22c55e&area=true&hide_border=true" />
-</p>
-
----
-
-### collaboration
-open to: data science missions, product analytics, ml prototyping, evaluation design  
-best channel: linkedin / email
+<!-- streak en option (souvent la source des bugs) -->
+<details>
+  <summary><b>streak (optional)</b></summary>
+  <p align="center">
+    <img height="175" src="https://streak-stats.demolab.com?user=Neriya98&theme=github-dark-blue&hide_border=true" />
+  </p>
+</details>
